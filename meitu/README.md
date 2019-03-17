@@ -1,6 +1,8 @@
 # Meitu
 
 ## Andy绘画机器人
+产品入口：美图秀秀 -> 美图AI -> 绘画机器人
+
 Demo：[绘画机器人](http://ai.meitu.com/algorithm/generateImages/AICartoonStyle1)
 
 微博：[美图AI](https://weibo.com/u/6411192933)
